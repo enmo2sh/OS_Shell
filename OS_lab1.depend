@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605031115 source:/home/enas/Desktop/OS_Projects/OS_lab1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<string.h>
+	<stdbool.h>
+	<signal.h>
+	<time.h>
+
